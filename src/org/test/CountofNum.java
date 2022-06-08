@@ -4,6 +4,10 @@ import java.util.Scanner;
 
 public class CountofNum {
 	public static void main(String[] args) {
+		int a,c;
+		a=10;
+		c=a;
+		System.out.println(c);
 		System.out.println("enter the num");
          Scanner s=new Scanner(System.in);
 
