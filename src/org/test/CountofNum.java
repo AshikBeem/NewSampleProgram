@@ -14,7 +14,9 @@ public class CountofNum {
         	 count++;
 }
    System.out.println(count);
+   System.out.println("Count of Numbers");
 
 	}
+	
 
 }
