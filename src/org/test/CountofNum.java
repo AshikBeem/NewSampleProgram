@@ -10,6 +10,11 @@ public class CountofNum {
 		a=10;
 		c=a;
 		System.out.println(c);
+		 
+		String s1="200";
+		int i=Integer.parseInt(s1);
+		System.out.println(i);
+		
 		System.out.println("enter the num");
          Scanner s=new Scanner(System.in);
 
