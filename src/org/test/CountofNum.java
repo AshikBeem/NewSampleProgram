@@ -16,6 +16,7 @@ public class CountofNum {
    System.out.println(count);
    System.out.println("Count of Numbers");
 
+   System.out.println("Count value");
 	}
 	
 
